@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+    margin-top: 80px;
+}
+
+.desc{
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-top: 80px;
+}
+
+
+.btn1{
+    width: 80px;
+    height: 60px;
+    background-color: black;
+    border-radius: 20%;
+    cursor: pointer;
+    
+}
+.btn2{
+    width: 80px;
+    height: 60px;
+    background-color: black;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
